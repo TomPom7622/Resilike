@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "WeaponA",
+            "desc": "Pistol loaded with ammunition.",
+            "quant": 15,
+            "maxQuant": 15,
+            "equipable": true,
+            "stackable": false,
+            "combinable": [ 1 ],
+            "type": "gun",
+            "maxDamage": 10
+        },
+        {
+            "id": 1,
+            "name": "AmmoA",
+            "desc": "Ammunition for small handguns.",
+            "quant": 15,
+            "maxQuant": 60,
+            "equipable": false,
+            "stackable": true,
+            "combinable": [ 0, 1 ],
+            "type": "ammo",
+            "maxDamage": 0
+        },
+        {
+            "id": 2,
+            "name": "Medkit",
+            "desc": "It heals.",
+            "quant": 1,
+            "maxQuant": 1,
+            "equipable": false,
+            "stackable": false,
+            "combinable": null,
+            "type": "healing",
+            "maxDamage": 20
+        },
+        {
+            "id": 3,
+            "name": "Metal key",
+            "desc": "There is a yellow symboll on it.** It looks like it opens the power box.||Power box key",
+            "quant": 1,
+            "maxQuant": 1,
+            "equipable": false,
+            "stackable": false,
+            "combinable": null,
+            "type": "key",
+            "maxDamage": 0
+        }
+    ]
+}

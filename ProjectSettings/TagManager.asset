@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - 'Weapon[A]'
+  - Weapon[A]Ammo
+  - InventorySlot
+  - InventoryScreen
+  - 'EventSystem["Navigation"]'
+  - ContextMenu
+  - Equip/Use
+  - Inspect
+  - Combine
+  - EquippedSlot
+  - EquippedSlotIcon
+  - Gun
+  - BulletSpawner
+  - LevelGeometry
+  - PlayerActions
+  - HealthBar
+  - Cam
+  - CamT
+  - GroundTrigger
+  - Floor
+  - Slope
+  - PowerBox
+  - Interactable
+  - PowerboxKey
+  - Medkit
+  - Powerbox
+  - Textbox
+  - InspectionPanel
+  - SecurityDoor
+  - GenericLockedDoor
+  - SpecialCamera
+  - DialogueOptionsMenu
+  - PowerBoxEvent
+  - CutsceneManager
+  - ButtonYes
+  - ButtonNo
+  - ButtonThird
+  - Note
+  - NoteName
+  - NoteText
+  - NotesPanel
+  - NoteTextPrompt
+  - InventoryButton
+  - MapButton
+  - NotesButton
+  - OptionsButton
+  - MainButtonsScreen
+  - EquipementPanel
+  - EventManager
+  - NotesButton_0
+  - NotesButton_1
+  - NotesList
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LevelGeometry
+  - Water
+  - UI
+  - ContextMenu
+  - Enemy
+  - Player
+  - Actions
+  - Items
+  - Inspect
+  - Open
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
